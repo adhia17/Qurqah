@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Qurqah</string>
+    <string name="sapikecil">
+        "Sapi Kecil.\n"
+        "Harga 55.000/kg x 200kg.\n"
+        "=Rp.11.000.000,00.\n"
+    </string>
+    <string name="sapibesar">
+        "Sapi Besar.\n"
+        "Harga 70.000/kg x 200kg.\n"
+        "=Rp.14.000.000,00.\n"
+    </string>
+    <string name="kambingkecil">
+        "Kambing kecil.\n"
+        "Harga 40.000/kg x 150kg.\n"
+        "=Rp.6.000.000,00.\n"
+    </string>
+    <string name="kambingbesar">
+        "Kambing Besar.\n"
+        "Harga 50.000/kg x 150kg.\n"
+        "=Rp.7.500.000,00.\n"
+    </string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="arigatou">
+        "Terima Kasih .\n"
+        "Telah Membeli Hewan Qurban.\n"
+        "!!Semoga Bermanfaat!!\n"
+    </string>
+    <string name="belumtersedia">
+        "Menu Belum Tersedia!!.\n"
+        "Silahkan Tunggu Beberapa Waktu Kedepan.\n"
+        "Untuk Penggunaan Menu ini.\n"
+    </string>
+</resources>
